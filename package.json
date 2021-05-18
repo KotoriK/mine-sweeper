@@ -1,7 +1,7 @@
 {
   "name": "mine-sweeper",
   "version": "1.0.0",
-  "description": "Mine Sweeper on H5, based on React",
+  "description": "Mine Sweeper based on React",
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
